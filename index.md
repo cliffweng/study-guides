@@ -25,6 +25,6 @@ Short study guides for Penn builders, and for anyone else who wants the same pag
 ## Founders
 
 - [Founders Interview Guide](https://cliffweng.com/founders-interview-guide/) — How Penn founders prep for YC-style accelerator interviews and early VC diligence.
-- **Startup Guide** <span class="label label-yellow">Coming soon</span> — The operating side of starting a company, separate from the interview guide.
+- [Startup Guide](https://cliffweng.com/startup-guide/) — The operating side of starting a company, separate from the interview guide.
 
 This page is only the directory. Each guide keeps its own topics.
