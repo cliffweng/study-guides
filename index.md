@@ -13,13 +13,13 @@ Short study guides for Penn builders, and for anyone else who wants the same pag
 - [LLM & Agent Engineering Study Guide](https://cliffweng.com/llm-agent-eng-study-guide/) — How software engineers build LLM systems and agents, and how they prep the interviews.
 - [System Design Guide](https://cliffweng.com/system-design-guide/) — How to reason through a system design interview and the building blocks behind it.
 - [Quant Research Guide](https://cliffweng.com/quant-research-guide/) — How a quant research workflow goes from hypothesis to a result you can defend.
-- **DevOps & Cloud Guide** <span class="label label-yellow">Coming soon</span> — How builders ship, observe, and run cloud systems for SWE, SRE, and platform interviews.
+- [DevOps & Cloud Guide](https://cliffweng.com/devops-cloud-guide/) — How builders ship, observe, and run cloud systems for SWE, SRE, and platform interviews.
 
 ## Finance
 
 - [Financial Engineering Guide](https://cliffweng.com/financial-engineering-guide/) — Pricing intuition and interview prep for derivatives, rates, and risk.
 - [Corporate Finance Guide](https://cliffweng.com/corporate-finance-guide/) — Capital structure, valuation, and the technical questions corp fin interviews ask.
-- **Accounting Guide** <span class="label label-yellow">Coming soon</span> — How to read the three statements and explain why a number moved.
+- [Accounting Guide](https://cliffweng.com/accounting-guide/) — How to read the three statements and explain why a number moved.
 - **Corporate Bond Analysis Guide** <span class="label label-yellow">Coming soon</span> — How to read a corporate credit: spreads, covenants, and what can go wrong.
 
 ## Founders
