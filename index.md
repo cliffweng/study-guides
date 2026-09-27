@@ -20,7 +20,7 @@ Short study guides for Penn builders, and for anyone else who wants the same pag
 - [Financial Engineering Guide](https://cliffweng.com/financial-engineering-guide/) — Pricing intuition and interview prep for derivatives, rates, and risk.
 - [Corporate Finance Guide](https://cliffweng.com/corporate-finance-guide/) — Capital structure, valuation, and the technical questions corp fin interviews ask.
 - [Accounting Guide](https://cliffweng.com/accounting-guide/) — How to read the three statements and explain why a number moved.
-- **Corporate Bond Analysis Guide** <span class="label label-yellow">Coming soon</span> — How to read a corporate credit: spreads, covenants, and what can go wrong.
+- [Corporate Bond Analysis Guide](https://cliffweng.com/corporate-bond-guide/) — How to read a corporate credit: spreads, covenants, and what can go wrong.
 
 ## Founders
 
