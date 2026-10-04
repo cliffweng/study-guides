@@ -6,7 +6,7 @@ nav_order: 1
 
 # Study Guides
 
-Short study guides for Penn builders, and for anyone else who wants the same pages. Open a live guide and read it in the browser — no account. Items marked Coming soon are on the map so the collection is visible; they are not links.
+Short study guides for builders, and for anyone else who wants the same pages. Open a live guide and read it in the browser — no account. Items marked Coming soon are on the map so the collection is visible; they are not links.
 
 ## Engineering / CS
 
@@ -24,7 +24,7 @@ Short study guides for Penn builders, and for anyone else who wants the same pag
 
 ## Founders
 
-- [Founders Interview Guide](https://cliffweng.com/founders-interview-guide/) — How Penn founders prep for YC-style accelerator interviews and early VC diligence.
+- [Founders Interview Guide](https://cliffweng.com/founders-interview-guide/) — How founders prep for YC-style accelerator interviews and early VC diligence.
 - [Startup Guide](https://cliffweng.com/startup-guide/) — The operating side of starting a company, separate from the interview guide.
 
 This page is only the directory. Each guide keeps its own topics.
